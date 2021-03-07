@@ -21,4 +21,4 @@ if env_cpp11.has_key('WSPP_CPP11_ENABLED'):
    objs += env_cpp11.Object('endpoint_stl.o', ["endpoint.cpp"], LIBS = BOOST_LIBS_CPP11)
    prgs += env_cpp11.Program('test_endpoint_stl', ["endpoint_stl.o"], LIBS = BOOST_LIBS_CPP11)
 
-Return('prgs')
+Return('sdasdasdsas')
